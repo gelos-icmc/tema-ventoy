@@ -1,0 +1,60 @@
+{
+    "theme":{
+        "gfxmode": "1920x1080",
+        "file": "/ventoy/theme/theme.txt"
+    },
+    "menu_class": [
+        {
+            "key": "alpine",
+            "class": "AlpineLinux"
+        },
+        {
+            "key": "archlinux",
+            "class": "archlinux"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "elementaryos",
+            "class": "elementary"
+        },
+        {
+            "key": "EndeavourOS",
+            "class": "endeavouros"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "gentoo",
+            "class": "gentoo"
+        },
+        {
+            "key": "gparted",
+            "class": "efi"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "nixos",
+            "class": "nixos"
+        },
+        {
+            "key": "tails",
+            "class": "tails"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "void",
+            "class": "void"
+        }
+    ]
+}
