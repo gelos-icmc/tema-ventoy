@@ -1,6 +1,6 @@
 {
     "theme":{
-        "gfxmode": "1920x1080",
+        "gfxmode": "2560x1080,2400x1080,2160x1080,1920x1080,1440x1080,auto",
         "file": "/ventoy/theme/theme.txt"
     },
     "menu_class": [
@@ -29,6 +29,10 @@
             "class": "fedora"
         },
         {
+            "key": "garuda",
+            "class": "garuda"
+        },
+        {
             "key": "gentoo",
             "class": "gentoo"
         },
@@ -37,12 +41,36 @@
             "class": "efi"
         },
         {
+            "key": "kali",
+            "class": "kali"
+        },
+        {
             "key": "linuxmint",
             "class": "linuxmint"
         },
         {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
             "key": "nixos",
             "class": "nixos"
+        },
+        {
+            "key": "openSUSE",
+            "class": "opensuse"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop-os"
+        },
+        {
+            "key": "Rocky",
+            "class": "rocky"
+        },
+        {
+            "key": "Solus",
+            "class": "solus"
         },
         {
             "key": "tails",
@@ -55,6 +83,10 @@
         {
             "key": "void",
             "class": "void"
+        },
+        {
+            "key": "Zorin",
+            "class": "zorin"
         }
     ]
 }

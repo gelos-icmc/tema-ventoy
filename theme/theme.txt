@@ -1,6 +1,7 @@
 # Main options
 title-text: ""
 desktop-image: "background.png"
+desktop-image-scale-method: "padding"
 desktop-color: "#000000"
 terminal-font: "Fira Mono Regular 16"
 terminal-box: "terminal_box_*.png"
