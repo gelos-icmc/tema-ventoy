@@ -9,7 +9,7 @@ Baseado no [distro grub themes](https://github.com/AdisonCavani/distro-grub-them
 - Coloque todos os arquivos desse repositório lá.
     - Você pode usar git pra isso (recomendado, para receber updates):
 ```bash
-git clone https://gitlab.com/gelos-icmc/ventoy-theme.git .
+git clone https://github.com/gelos-icmc/tema-ventoy.git .
 ```
 
 (Atenção ao ponto)
